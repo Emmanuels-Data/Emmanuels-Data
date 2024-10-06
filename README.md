@@ -15,4 +15,4 @@
 ## Reach me
 ### Email: [ifeanyichukwudi98@gmail.com]
 ### LinkedIn: [www.linkedin.com/in/chukwudi-ifeanyi-755195167]
-### GitHub: [https://github.com/Emmanuels-Data/Emmanuels]
+### GitHub: [https://github.com/Emmanuels-Data]
