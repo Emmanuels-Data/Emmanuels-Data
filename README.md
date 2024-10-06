@@ -6,7 +6,7 @@
 
 ### Data Engineering: ETL processes, Data Warehousing, Big Data Technologies (Hadoop, Spark)
 
-### Data Analysis: Statistical Analysis, Data Visualization (Tableau, Power BI), Predictive Modeling
+### Data Analysis: Statistical Analysis, Microsoft Excel, Data Visualization (Tableau, Power BI), Predictive Modeling
 
 ### Databases: MySQL, PostgreSQL, MongoDB
 
