@@ -11,6 +11,6 @@
 
 ## Reach me
 ### Email: [ifeanyichukwudi98@gmail.com]
-### !LinkedIn: {chukwudi-ifeanyi-755195167}
+### LinkedIn: www.linkedin.com/in/chukwudi-ifeanyi-755195167
 
 
