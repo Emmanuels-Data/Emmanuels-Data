@@ -10,5 +10,5 @@
 ### Tools & Technologies: Apache Kafka, AWS, Azure, Docker, gits, visual studio.
 
 ## Reach me
-### Email: (ifeanyichukwudi98@gmail.com)
-### LinkedIn: (www.linkedin.com/in/chukwudi-ifeanyi-755195167)
+### Email: [ifeanyichukwudi98@gmail.com]
+### LinkedIn: {www.linkedin.com/in/chukwudi-ifeanyi-755195167}
