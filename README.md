@@ -1,6 +1,6 @@
 ## 👋 Hi,
 ## Call me Emmanuel
-### I am a passionate Data Engineer and Data Analyst with a strong background in transforming raw data into actionable insights. With a keen eye for detail and a love for problem-solving, I thrive on turning complex data into meaningful information. 
+### I am a passionate Technical Data Analyst with a strong background in transforming raw data into actionable insights. With a keen eye for detail and a love for problem-solving, I thrive on turning complex data into meaningful information. 
 
 ### Skills
 ### Programming Languages: Python, SQL, R
